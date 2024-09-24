@@ -13,19 +13,19 @@ const StoreSection = () => {
         <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-r from-gray-100 to-white opacity-30 z-0"></div>
 
         <div className="relative w-full md:h-[600px] h-[400px]">
-          {/* Central Icon */}
+       
           <div className="z-20 absolute w-[80px] h-[80px] md:w-[120px] md:h-[120px] rounded-2xl shadow-lg flex justify-center items-center transition-transform duration-300 transform  bg-green-500 top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] hover:scale-110">
             <img
-              src="src/assets/printify-E3TBSF5R.svg"
+              src="assets/printify-E3TBSF5R.svg"
               alt="Central Icon"
-              className="w-[60%] h-[60%]"
+              className="w-[50%] h-[50%]"
             />
           </div>
 
-          {/* Other Icons */}
+        
           <div className="absolute w-[80px] h-[80px] md:w-[100px] md:h-[100px] bg-white rounded-2xl shadow-lg flex justify-center items-center transition-transform duration-300 transform z-10 top-[20%] left-[30%] hover:scale-110">
             <img
-              src="src/assets/big-commerce-EGSGKPYX.svg"
+              src="assets/big-commerce-EGSGKPYX.svg"
               alt="BigCommerce"
               className="w-[70%] h-[70%]"
             />
@@ -33,7 +33,7 @@ const StoreSection = () => {
 
           <div className="absolute w-[80px] h-[80px] md:w-[100px] md:h-[100px] bg-white rounded-2xl shadow-lg flex justify-center items-center transition-transform duration-300 transform z-10 top-[20%] right-[30%] hover:scale-110">
             <img
-              src="src/assets/squarespace-FIBF2RIF.svg"
+              src="assets/squarespace-FIBF2RIF.svg"
               alt="Squarespace"
               className="w-[70%] h-[70%]"
             />
@@ -41,7 +41,7 @@ const StoreSection = () => {
 
           <div className="absolute w-[80px] h-[80px] md:w-[100px] md:h-[100px] bg-white rounded-2xl shadow-lg flex justify-center items-center transition-transform duration-300 transform z-10 top-1/2 right-[10%] translate-y-[-50%] hover:scale-110">
             <img
-              src="src/assets/wix-MWZCZDTE.svg"
+              src="assets/wix-MWZCZDTE.svg"
               alt="Wix"
               className="w-[70%] h-[70%]"
             />
@@ -49,7 +49,7 @@ const StoreSection = () => {
 
           <div className="absolute w-[80px] h-[80px] md:w-[100px] md:h-[100px] bg-white rounded-2xl shadow-lg flex justify-center items-center transition-transform duration-300 transform z-10 bottom-[30%] right-[20%] hover:scale-110">
             <img
-              src="src/assets/woo-PGFAG65X.svg"
+              src="assets/woo-PGFAG65X.svg"
               alt="WooCommerce"
               className="w-[70%] h-[70%]"
             />
@@ -57,7 +57,7 @@ const StoreSection = () => {
 
           <div className="absolute w-[80px] h-[80px] md:w-[120px] md:h-[120px] bg-white rounded-2xl shadow-lg flex justify-center items-center transition-transform duration-300 transform z-10 bottom-[10%] left-[40%] hover:scale-110">
             <img
-              src="src/assets/etsy-MXXFYORZ.svg"
+              src="assets/etsy-MXXFYORZ.svg"
               alt="Etsy"
               className="w-[70%] h-[70%]"
             />
@@ -65,7 +65,7 @@ const StoreSection = () => {
 
           <div className="absolute w-[80px] h-[80px] md:w-[100px] md:h-[100px] bg-white rounded-2xl shadow-lg flex justify-center items-center transition-transform duration-300 transform z-10 bottom-[40%] left-[20%] hover:scale-110">
             <img
-              src="src/assets/shopify-3NAPXPBF.svg"
+              src="assets/shopify-3NAPXPBF.svg"
               alt="Shopify"
               className="w-[70%] h-[70%]"
             />
@@ -77,7 +77,7 @@ const StoreSection = () => {
 
           <div className="absolute w-[80px] h-[80px] md:w-[120px] md:h-[120px] bg-white rounded-2xl shadow-lg flex justify-center items-center transition-transform duration-300 transform z-10 bottom-[10%] right-[30%] hover:scale-110">
             <img
-              src="src/assets/presta-54F6AYUU.svg"
+              src="assets/presta-54F6AYUU.svg"
               alt="PrestaShop"
               className="w-[70%] h-[70%]"
             />

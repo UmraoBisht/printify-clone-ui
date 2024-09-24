@@ -7,7 +7,7 @@ const Footer = () => {
         {/* Logo Section */}
         <div className="mb-8 flex flex-col md:flex-row md:justify-between items-center lg:mb-8">
           <img
-            src="src/assets/logo-old-B5JY5YNQ.svg"
+            src="assets/logo-old-B5JY5YNQ.svg"
             alt="Printify Logo"
             className="mb-4 w-32 "
           />
@@ -15,49 +15,49 @@ const Footer = () => {
           <div className="flex space-x-4">
             <a href="#" className="text-green-500 hover:text-green-600">
               <img
-                src="src/assets/facebook-icon.svg"
+                src="assets/facebook-icon.svg"
                 alt="Printify Logo"
                 className="mb-4 w-8 h-8"
               />
             </a>
             <a href="#" className="text-green-500 hover:text-green-600">
               <img
-                src="src/assets/instagram-icon.svg"
+                src="assets/instagram-icon.svg"
                 alt="Printify Logo"
                 className="mb-4 w-8 h-8"
               />
             </a>
             <a href="#" className="text-green-500 hover:text-green-600">
               <img
-                src="src/assets/linkedin-icon.svg"
+                src="assets/linkedin-icon.svg"
                 alt="Printify Logo"
                 className="mb-4 w-8 h-8"
               />
             </a>
             <a href="#" className="text-green-500 hover:text-green-600">
               <img
-                src="src/assets/X-Logo-Green.svg"
+                src="assets/X-Logo-Green.svg"
                 alt="Printify Logo"
                 className="mb-4 w-8 h-8"
               />
             </a>
             <a href="#" className="text-green-500 hover:text-green-600">
               <img
-                src="src/assets/youtube-icon.svg"
+                src="assets/youtube-icon.svg"
                 alt="Printify Logo"
                 className="mb-4 w-8 h-8"
               />
             </a>
             <a href="#" className="text-green-500 hover:text-green-600">
               <img
-                src="src/assets/Tiktok-1.svg"
+                src="assets/Tiktok-1.svg"
                 alt="Printify Logo"
                 className="mb-4 w-8 h-8"
               />
             </a>
             <a href="#" className="text-green-500 hover:text-green-600">
               <img
-                src="src/assets/reddit-icon.svg"
+                src="assets/reddit-icon.svg"
                 alt="Printify Logo"
                 className="mb-4 w-8 h-8"
               />

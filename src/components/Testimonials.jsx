@@ -6,7 +6,6 @@ import "swiper/css";
 import "swiper/css/free-mode";
 import "swiper/css/pagination";
 
-import "./swiper.css";
 import { FreeMode, Pagination } from "swiper/modules";
 
 const TestimonialCard = ({ testimonial }) => (
@@ -41,28 +40,28 @@ function Testimonials() {
   const testimonials = [
     {
       name: "Robert A. Voltaire",
-      image: "src/assets/robert-voltaire-RIZV7QXV.png",
+      image: "assets/robert-voltaire-RIZV7QXV.png",
       type: "Store link",
       rating: 5,
       text: "Printify has been an incredible service for us musicians unable to keep large amount of inventory - now we can create designs previously too expensive to print without having to have 1,000 shirts in our jam space. Thanks Printify!",
     },
     {
       name: "Quinten Barney",
-      image: "src/assets/quinten-barney-CHC7B3FG.png",
+      image: "assets/quinten-barney-CHC7B3FG.png",
       type: "Etsy Merchant",
       rating: 5,
       text: "We chose Printify because of their offerings as well as their incredibly low prices. After several years, we've come to find that their customer service is also top notch, and their platform just keeps getting better and better.",
     },
     {
       name: "Nikki",
-      image: "src/assets/nikki-TJP4NANB.png",
+      image: "assets/nikki-TJP4NANB.png",
       type: "Store link",
       rating: 4,
       text: " Printify has been a amazing partner to work with as we grow our business, from the range of merch we can make for our customers to working with our Customer Service team (Hi Martin!) it's truly made the whole process a breeze. ",
     },
     {
       name: "April showers",
-      image: "src/assets/april-showers-BCJ7SD2U.jpeg",
+      image: "assets/april-showers-BCJ7SD2U.jpeg",
       type: "Store link",
       rating: 4,
       text: " I really appreciate working with Printify on my brand. Afro Unicorn was only supposed to be my design on a white shirt. It is so much more. Printify allows me the time to run the business and not work in the business. ",

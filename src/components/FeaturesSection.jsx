@@ -3,17 +3,17 @@ import React from 'react';
 const FeaturesSection = () => {
   const features = [
     {
-      icon: 'src/assets/higher-profits.svg', // Replace with actual image path
+      icon: 'assets/higher-profits.svg', // Replace with actual image path
       title: 'Higher Profits',
       description: 'We offer some of the lowest prices in the industry because print providers continuously compete to win your business.',
     },
     {
-      icon: 'src/assets/robust-scaling.svg', // Replace with actual image path
+      icon: 'assets/robust-scaling.svg', // Replace with actual image path
       title: 'Robust Scaling',
       description: 'Easily handle peak holiday seasons, with our wide network of partners and automatic routing functionality.',
     },
     {
-      icon: 'src/assets/best-selection.svg', // Replace with actual image path
+      icon: 'assets/best-selection.svg', // Replace with actual image path
       title: 'Best Selection',
       description: 'With 900+ products and top quality brands, you can choose the best products for your business.',
     },

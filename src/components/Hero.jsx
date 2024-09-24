@@ -75,7 +75,7 @@ export default function Hero() {
       </div>
       <div className="md:w-1/2 relative bg-hero-pattern bg-no-repeat bg-cover z-0">
         <img
-          src="src/assets/s1.svg"
+          src="assets/s1.svg"
           alt="T-shirt mockup"
           width={500}
           height={500}

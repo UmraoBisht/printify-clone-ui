@@ -26,20 +26,20 @@ const ProductCustomizationComponent = () => {
 
   const features = [
     {
-      icon: <img src="src/assets/custom-products.png" className="w-32 h-32 " />,
+      icon: <img src="assets/custom-products.png" className="w-32 h-32 " />,
       title: "CREATE",
       subtitle: "custom products",
       description:
         "Easily add your designs to a wide range of products using our free tools",
     },
     {
-      icon: <img src="src/assets/your-products.png" className="w-32 h-32 " />,
+      icon: <img src="assets/your-products.png" className="w-32 h-32 " />,
       title: "SELL",
       subtitle: "on your terms",
       description: "You choose the products, sale price, and where to sell",
     },
     {
-      icon: <img src="src/assets/fullfillment.png" className="w-32 h-32 " />,
+      icon: <img src="assets/fullfillment.png" className="w-32 h-32 " />,
       title: "WE HANDLE",
       subtitle: "fulfillment",
       description:
@@ -60,12 +60,12 @@ const ProductCustomizationComponent = () => {
       <div className="bg-white md:bg-transparent rounded-2xl mx-auto md:relative flex flex-col md:block w-full md:h-screen container mb-16 md:py-24">
         <div className=" relative md:absolute inset-0 z-10 min-h-[25rem] md:w-[39.5%] bg-clothes bg-no-repeat bg-center bg-cover rounded-2xl">
           <img
-            src="src/assets/clothes-bottom-53OO5ML3.svg"
+            src="assets/clothes-bottom-53OO5ML3.svg"
             alt="clothes-bottom"
             className="w-[70%] absolute bottom-0  right-0"
           />
           <img
-            src="src/assets/s3.svg"
+            src="assets/s3.svg"
             alt="clothes-bottom"
             className="hidden md:block w-full md:w-[300px] md:absolute bottom-0 -right-28"
           />

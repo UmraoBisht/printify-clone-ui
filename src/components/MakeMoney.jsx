@@ -38,7 +38,7 @@ function MakeMoney() {
           </div>
           <div className="hidden lg:block absolute bottom-0 -right-10 mt-8 lg:mt-0 rounded-lg lg:ml-8 w-full lg:w-1/2">
             <img
-              src="src/assets/s2.svg"
+              src="assets/s2.svg"
               alt="Earning Illustration"
               className="rounded-lg"
             />

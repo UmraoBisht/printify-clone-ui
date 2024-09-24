@@ -69,7 +69,7 @@ function Testimonials() {
   ];
 
   return (
-    <section>
+    <section className="py-8 my-8">
       <div className="flex flex-col lg:flex-row items-center lg:items-start justify-between md:mx-4 px-6 py-8  md:px-16 md:py-16 space-y-6 lg:space-y-0 lg:space-x-12 ">
         <div className="w-full lg:w-1/2">
           <h1 className="text-4xl font-bold text-gray-900">

@@ -2,8 +2,8 @@ import React from "react";
 
 function MakeMoney() {
   return (
-    <div className="py-8 container mx-auto px-2 md:py-20">
-      <div className="flex flex-col lg:flex-row items-center justify-between w-full bg-gray-50">
+    <div className="py-8 container mt-16 mx-auto px-2 md:py-14">
+      <div className="flex flex-col lg:flex-row items-center justify-between w-full bg-gray-50 py-4">
         <div className="bg-[#0B253A] relative p-8 rounded-lg text-white w-full lg:w-2/3 mx-auto">
           <div className="w-full lg:w-1/2">
             <h1 className="text-3xl font-semibold mb-4">

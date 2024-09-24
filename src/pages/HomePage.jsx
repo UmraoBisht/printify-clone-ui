@@ -12,7 +12,7 @@ const Testimonials = React.lazy(() => import("../components/Testimonials"));
 const MakeMoney = React.lazy(() => import("../components/MakeMoney"));
 const Footer = lazy(() => import("../components/Footer"));
 
-function Homepage() {
+function HomePage() {
   return (
     <Navbar>
       <Hero />
@@ -26,4 +26,4 @@ function Homepage() {
   );
 }
 
-export default Homepage;
+export default HomePage;

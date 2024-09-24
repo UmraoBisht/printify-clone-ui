@@ -138,7 +138,7 @@ function Navbar({ children }) {
                 onClick={toggleMenu}
               />
               <img
-                src="src/assets/logo-old-B5JY5YNQ.svg"
+                src="/src/assets/logo-old-B5JY5YNQ.svg"
                 alt="Printify Logo"
                 width={120}
                 height={40}
